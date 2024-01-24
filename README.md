@@ -1,5 +1,5 @@
 ## Rubik's Snake
-Etude d'un Rubik's Snake donné par son code, par exemple [000000220220220102202200](https://raw.githack.com/YvesLemaire/rubiksnake/main/cat.html)
+Etude d'un Rubik's Snake donné par son code, par exemple [000000220220220102202200](https://rawcdn.githack.com/YvesLemaire/rubiksnake/9cdd0cef72da81341bdbab911846ae12b16f8a5c/cat.html)
 ## Mode d'emploi
 - Pour une utilisation basique du programme, c'est [ici](https://raw.githack.com/YvesLemaire/rubiksnake/main/rubiksnake.html). 
 - Sinon, téléchargez le fichier `rubiksnake.ipynb` qui est un notebook jupyter à utiliser avec un noyau SageMath ; donc :
