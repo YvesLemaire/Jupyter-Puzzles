@@ -10,7 +10,7 @@ Dépôt présentant des notebooks jupyter python ou sage ayant pour objet la ré
 Télécharger le notebook  `xxx.ipynb`.
 - Pour une utilisation basique du programme, téléverser `xxx.ipynb` sur [ce site](https://dahn-research.eu/nbplayer/). 
 - Sinon, 
-    - si SageMath est installé sur votre machine, utiliser la commande `jupyter notebook` dans un répertoire qui contient le fichier 
+    - si SageMath est installé sur votre machine, utiliser la commande `sage -n jupyter` dans un répertoire qui contient le fichier 
     - ou vous pouvez ouvrir un compte sur [`sage.syzygy.ca`](https://sage.syzygy.ca/) ;
     - ou utiliser [cocalc](https://cocalc.com/).
 
