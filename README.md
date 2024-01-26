@@ -1,11 +1,11 @@
 # Jupyter-Puzzles
 Dépôt présentant des notebooks jupyter python ou sage ayant pour objet la résolution de puzzles, de problèmes logiques, etc. par des méthodes classiques.
 
-# Python
+## Python
 
-# Sage
+## Sage
 
-## Utilisation d'un noteboook jupyter avec un noyau [SageMath](https://www.sagemath.org/)
+### Utilisation d'un noteboook jupyter avec un noyau [SageMath](https://www.sagemath.org/)
 
 Télécharger le notebook  `xxx.ipynb`.
 - Pour une utilisation basique du programme, téléverser `xxx.ipynb` sur [ce site](https://dahn-research.eu/nbplayer/). 
