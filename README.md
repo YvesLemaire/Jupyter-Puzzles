@@ -18,4 +18,4 @@ Télécharger le notebook  `xxx.ipynb`.
 Etude d'un Rubik's Snake donné par son code, par exemple [000000220220220102202200](https://raw.githack.com/YvesLemaire/images/main/cat.html) et [aide à sa réalisation](./sage/rubiksnake/cat.png)
 
 ### Algorithme X ([`algoriyhmeX.ipynb`](./sage/algorithmeX/algorithmeX.ipynb))
-Applications de l'algorithme X à la résolution de puzzles. L'algorithme est implémenté efficacement avec la méthode, incluse dans Sage, des [liens dansants](https://arxiv.org/pdf/cs/0011047.pdf) de [Donald Knuth](https://www-cs-faculty.stanford.edu/~knuth/). 
+Applications de l'algorithme X à la résolution de [puzzles](./sage/algorithmeX/puzzle.png). L'algorithme est implémenté efficacement avec la méthode, incluse dans Sage, des [liens dansants](https://arxiv.org/pdf/cs/0011047.pdf) de [Donald Knuth](https://www-cs-faculty.stanford.edu/~knuth/). 
