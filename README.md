@@ -14,7 +14,7 @@ Télécharger le notebook  `xxx.ipynb`.
     - ou vous pouvez ouvrir un compte sur [`sage.syzygy.ca`](https://sage.syzygy.ca/) ;
     - ou utiliser [cocalc](https://cocalc.com/).
 
-### Rubik's Snake ([`rubiksnake.ipynb`](./sage/rubiksnake/rubiksnake.ipynb))
+### [Rubik's Snake](https://fr.wikipedia.org/wiki/Rubik%27s_Snake) ([`rubiksnake.ipynb`](./sage/rubiksnake/rubiksnake.ipynb))
 Etude d'un Rubik's Snake donné par son code, par exemple [000000220220220102202200](https://raw.githack.com/YvesLemaire/images/main/cat.html) et [aide à sa réalisation](./sage/rubiksnake/cat.png)
 
 ### Algorithme X ([`algoriyhmeX.ipynb`](./sage/algorithmeX/algorithmeX.ipynb))
