@@ -4,7 +4,7 @@ Ce dépôt contient des notebooks jupyter, avec noyau python ou sage, ayant pour
 ## Python
 
 ### [Rubik's Cube 2x2x2](https://fr.wikipedia.org/wiki/Pocket_Cube) ([`rubikcube2x2x2.ipynb`](./python/rubikcube/rubikcube2x2x2.ipynb))
-Utilisation de la notion de parcours en profondeur d'un graphe pour calculer efficacement une solution optimale d'un Rubik's Cube 2x2x2.
+Utilisation de la notion de parcours en largeur d'un graphe pour calculer efficacement une solution optimale d'un Rubik's Cube 2x2x2.
 
 Pour être complet, le notebook comprend aussi une interface avec l'excellent [solveur](https://github.com/Wiston999/python-rubik) de Victor Cabezas qui calcule en un temps très raisonable une solution presque optimale d'un Rubik's Cube 3x3x3. Pour l'utiliser : `pip install rubik_solver`
 
