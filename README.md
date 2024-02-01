@@ -16,8 +16,7 @@ Télécharger le notebook  `xxx.ipynb`.
 - Pour une utilisation basique du programme, téléverser `xxx.ipynb` sur [ce site](https://dahn-research.eu/nbplayer/). 
 - Sinon, 
     - si SageMath est installé sur votre machine, utiliser la commande `sage -n jupyter` dans un répertoire qui contient `xxx.ipynb`
-    - ou vous pouvez ouvrir un compte sur [`sage.syzygy.ca`](https://sage.syzygy.ca/) ;
-    - ou utiliser [cocalc](https://cocalc.com/).
+    - ou vous pouvez ouvrir un compte sur [`sage.syzygy.ca`](https://sage.syzygy.ca/) ou sur [cocalc](https://cocalc.com/).
 
 ### Rubik's Cube 3x3x3 ([`rubikcube.ipynb`](./sage/rubikcube/rubikcube.ipynb))
 Interface avec les solveurs de Rubik's Cube fournis par Sage (si le package externe [`rubiks`](https://doc.sagemath.org/html/en/reference/spkg/rubiks.html) est installé [^1]) et [affichage graphique](./sage/rubikcube/exemple.png) des solutions.
