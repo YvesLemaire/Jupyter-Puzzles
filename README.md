@@ -8,6 +8,9 @@ Utilisation de la notion de parcours en profondeur d'un graphe pour calculer eff
 
 Pour être complet, le notebook comprend aussi une interface avec l'excellent [solveur](https://github.com/Wiston999/python-rubik) de Victor Cabezas qui calcule en un temps très raisonable une solution presque optimale d'un Rubik's Cube 3x3x3. Pour l'utiliser : `pip install rubik_solver`
 
+### [Snake Cube](https://fr.wikipedia.org/wiki/Cube_serpent) ([`snakecube.ipynb`](./python/snakecube/snakecube.ipynb))
+Calcul des solutions d'un Cube-Serpent
+
 ## Sage
 
 ### Utilisation d'un noteboook jupyter avec un noyau [SageMath](https://www.sagemath.org/)
