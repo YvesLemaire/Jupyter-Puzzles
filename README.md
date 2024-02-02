@@ -1,5 +1,5 @@
 # Jupyter-Puzzles
-Ce dépôt contient des notebooks jupyter, avec noyau python ou sage, ayant pour objet la résolution de puzzles, de problèmes logiques, etc.
+Ce dépôt contient des notebooks jupyter (fichiers de la forme `xxx.ipynb`), avec noyau python ou sage, ayant pour objet la résolution de puzzles, de problèmes logiques, etc.
 
 ## Python
 
