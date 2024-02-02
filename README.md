@@ -7,7 +7,7 @@ Ce dépôt contient des notebooks jupyter, avec noyau python ou sage, ayant pour
 
 Télécharger le notebook  `xxx.ipynb` et, éventuellement les autres fichiers du même répertoire.
 - Si Python, avec [jupyter](https://jupyter.org/install), est installé sur votre machine, utiliser la commande `jupyter notebook` dans un répertoire qui contient `xxx.ipynb` ;
-- sinon, le plus simple est de téléverser les fichiers dans un sous répertoire de `Mon Drive\Colab Notebooks\` dans `Google Drive` et d'ouvrir `Mon Drive/Colab Notebooks/.../xxx.ipynb` dans un navigateur (au hasard : `chrome`).
+- sinon, le plus simple est de téléverser les fichiers dans un sous répertoire de `Mon Drive\Colab Notebooks\` dans `Google Drive` et d'ouvrir `Mon Drive/Colab Notebooks/.../xxx.ipynb` dans un navigateur (partir de [Mon Drive](https://drive.google.com/drive/my-drive)).
   
 ### Deux problèmes de logique ([`logique.ipynb`](./python/logique/logique.ipynb))
 choisis parmi les plus beaux (selon moi) problèmes du type "je sais, je sais pas" : le problème de Freudenthal et le problème de Axel Born, Kor Hurkens et Gerhard Woeginger, tous deux référencés [ici](https://interstices.info/jcms/c_33649/l-incroyable-probleme-de-freudenthal).
