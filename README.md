@@ -12,6 +12,8 @@ Télécharger le notebook  `xxx.ipynb` et, éventuellement les autres fichiers d
 ### [Marche du cavalier](https://fr.wikipedia.org/wiki/Probl%C3%A8me_du_cavalier) ([`cavalier.ipynb`](./python/cavalier/cavalier.ipynb)
 Application de la notion de cycle hamiltonien d'un graphe à la [résolution du problème du cavalier](./python/cavalier/cavalier.png) cher à Euler.
 
+### [Automates](https://fr.wikipedia.org/wiki/Th%C3%A9orie_des_automates) ([`automates.ipynb`](./python/automates/automates.ipynb)
+
 ### Deux problèmes de logique ([`logique.ipynb`](./python/logique/logique.ipynb))
 choisis parmi les plus beaux (selon moi) problèmes du type "je sais, je sais pas" : le problème de Freudenthal et le problème de Axel Born, Kor Hurkens et Gerhard Woeginger, tous deux référencés [ici](https://interstices.info/jcms/c_33649/l-incroyable-probleme-de-freudenthal).
 
