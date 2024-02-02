@@ -12,7 +12,7 @@ Télécharger le notebook  `xxx.ipynb` et, éventuellement les autres fichiers d
 ### [Marche du cavalier](https://fr.wikipedia.org/wiki/Probl%C3%A8me_du_cavalier) ([`cavalier.ipynb`](./python/cavalier/cavalier.ipynb)
 Application de la notion de cycle hamiltonien d'un graphe à la [résolution du problème du cavalier](./python/cavalier/cavalier.png) cher à Euler.
 
-### [Automates](https://fr.wikipedia.org/wiki/Th%C3%A9orie_des_automates) ([`automates.ipynb`](./python/automates/automates.ipynb)
+### [Automates](https://fr.wikipedia.org/wiki/Th%C3%A9orie_des_automates) ([`automates.ipynb`](./python/automates/automates.ipynb))
 Applications de la théorie des automates à la résolution de quelques problèmes, comme [les 3 bouteilles](https://www.prise2tete.fr/forum/viewtopic.php?id=5151) ou [loup, chèvre et chou](https://fr.wikipedia.org/wiki/Le_loup,_la_ch%C3%A8vre_et_le_chou).
 
 ### Deux problèmes de logique ([`logique.ipynb`](./python/logique/logique.ipynb))
