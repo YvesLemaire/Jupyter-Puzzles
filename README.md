@@ -9,6 +9,10 @@ Télécharger le notebook  `xxx.ipynb` et, éventuellement les autres fichiers d
 - Si Python, avec [jupyter](https://jupyter.org/install), est installé sur votre machine, utiliser la commande `jupyter notebook` dans un répertoire qui contient `xxx.ipynb` ou ouvrir le fichier dans [VScode](https://code.visualstudio.com/) ;
 - sinon, avec un compte Google, le plus simple est de téléverser les fichiers dans un sous répertoire de `Mon Drive/Colab Notebooks/` dans `Google Drive` et d'ouvrir `Mon Drive/Colab Notebooks/.../xxx.ipynb` dans un navigateur (partir de [Mon Drive](https://drive.google.com/drive/my-drive)). Noter que cela permet aussi de faire fonctionner Python sur un smartphone.  
 
+### Permutations ([`permutations.pynb`](./python/permutations/permutations.ipynb))
+
+Génération de toutes les permutations d'un ensemble (fini) par un joli algorithme et aplication à des petites énigmes.
+
 ### Parcours de graphe ([`parcours.ipynb`](./python/outils/parcours.ipynb)) 
 Fournit trois fonctions python utilisées par d'autres notebooks
 - `dfs` parcours en profondeur, utilisé par [`solitaire.ipynb`](./python/solitaire/solitaire.ipynb)
