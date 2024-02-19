@@ -15,7 +15,7 @@ Fournit trois fonctions python
 - `bfs` parcours en largeur
 - `aStar` algorithme A*
 
-qui sont utilisées dans d'autres notebooks [`solitaire.ipynb`](./python/solitaire/solitaire.ipynb), [`sokoban.ipynb`](./python/solitaire/sokoban.ipynb) et [`8-puzzle.ipynb`](./python/8-puzzle/8-puzzle.ipynb), 
+qui sont utilisées dans d'autres notebooks [`solitaire.ipynb`](./python/solitaire/solitaire.ipynb), [`sokoban.ipynb`](./python/sokoban/sokoban.ipynb) et [`8-puzzle.ipynb`](./python/8-puzzle/8-puzzle.ipynb), 
 
 ### [Marche du cavalier](https://fr.wikipedia.org/wiki/Probl%C3%A8me_du_cavalier) ([`cavalier.ipynb`](./python/cavalier/cavalier.ipynb))
 Application de la notion de cycle hamiltonien d'un graphe à la [résolution du problème du cavalier](./python/cavalier/cavalier.png) cher à Euler.
