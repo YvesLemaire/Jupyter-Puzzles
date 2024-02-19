@@ -21,7 +21,7 @@ Utilisation du [parcours en profondeur](./python/outils/parcours.ipynb) d'un gra
 
 ### [Sokoban](https://fr.wikipedia.org/wiki/Sokoban) ([`sokoban.ipynb`](./python/sokoban/sokoban.ipynb) 
 
-Utilisation de l'[Algorithme A*](./python/outils/parcours.ipynb) pour trouver une solution optimale (nombre minimum de coups) d'un sokoban de pas trop grande dimension, par exemple, [celui-ci]()
+Utilisation de l'[Algorithme A*](./python/outils/parcours.ipynb) pour trouver une solution optimale (nombre minimum de coups) d'un sokoban de pas trop grande dimension, par exemple, [celui-ci](./python/sokoban/images/microcosmos31_0.png)
 
 ### [Marche du cavalier](https://fr.wikipedia.org/wiki/Probl%C3%A8me_du_cavalier) ([`cavalier.ipynb`](./python/cavalier/cavalier.ipynb))
 Application de la notion de cycle hamiltonien d'un graphe à la [résolution du problème du cavalier](./python/cavalier/cavalier.png) cher à Euler.
