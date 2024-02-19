@@ -17,7 +17,11 @@ Fournit trois fonctions python utilisées par d'autres notebooks
 
 ### [Solitaire](https://fr.wikipedia.org/wiki/Solitaire_(casse-t%C3%AAte)) ([`solitaire.ipynb`](./python/solitaire/solitaire.ipynb)) 
 
-Résolution de solitaires, par exemple [anglais](./python/solitaire/images/anglais.png), [français](./python/solitaire/images/francais.png) ou [allemand](./python/solitaire/images/allemand.png)
+Utilisation du [parcours en profondeur](./python/outils/parcours.ipynb) d'un graphe pour la résolution de solitaires, par exemple [anglais](./python/solitaire/images/anglais.png), [français](./python/solitaire/images/francais.png) ou [allemand](./python/solitaire/images/allemand.png)
+
+### [Sokoban](https://fr.wikipedia.org/wiki/Sokoban) ([`sokoban.ipynb`](./python/sokoban/sokoban.ipynb) 
+
+Utilisation de l'[Algorithme A*](./python/outils/parcours.ipynb) pour trouver une solution optimale (nombre minimum de coups) d'un sokoban de pas trop grande dimension, par exemple, [celui-ci]()
 
 ### [Marche du cavalier](https://fr.wikipedia.org/wiki/Probl%C3%A8me_du_cavalier) ([`cavalier.ipynb`](./python/cavalier/cavalier.ipynb))
 Application de la notion de cycle hamiltonien d'un graphe à la [résolution du problème du cavalier](./python/cavalier/cavalier.png) cher à Euler.
@@ -30,7 +34,7 @@ choisis parmi les plus beaux (selon moi) problèmes du type "je sais, je sais pa
 
 ### [Mastermind](https://fr.wikipedia.org/wiki/Mastermind) ([`mastermind.ipynb`](./python/mastermind/mastermind.ipynb))
 Faire jouer à l'ordinateur le rôle du décodeur dans le jeu Mastermind. L'algorithme utilisé, dû à [Donald Knuth](https://fr.wikipedia.org/wiki/Donald_Knuth), est nommé *five-guess* car il permet de trouver le code caché en au plus cinq propositions (cinq motifs proposés).  
-Un autre algorithme (D. L. Greenwell) est proposé pour le mastermind classique ($4$ positions et $6$ couleurs) qui consise à proposer 6 motifs, toujours les mêmes, pour calculer le code.
+Un autre algorithme (D. L. Greenwell) est proposé pour le mastermind classique ($4$ positions et $6$ couleurs) qui consiste à proposer 6 motifs, toujours les mêmes, pour calculer le code.
 
 ### [Rubik's Cube 2x2x2](https://fr.wikipedia.org/wiki/Pocket_Cube) ([`rubikcube2x2x2.ipynb`](./python/rubikcube/rubikcube2x2x2.ipynb))
 Utilisation de la notion de parcours en largeur d'un graphe pour calculer efficacement une solution optimale d'un Rubik's Cube 2x2x2.
