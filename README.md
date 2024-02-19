@@ -16,6 +16,7 @@ Fournit trois fonctions python utilisées par d'autres notebooks
 - `aStar` algorithme A*, utilisé par  [`sokoban.ipynb`](./python/sokoban/sokoban.ipynb) et [`8-puzzle.ipynb`](./python/8-puzzle/8-puzzle.ipynb)
 
 ### [Solitaire](https://fr.wikipedia.org/wiki/Solitaire_(casse-t%C3%AAte)) ([`solitaire.ipynb`](./python/solitaire/solitaire.ipynb)) 
+
 Résolution de solitaires, par exemple [anglais](./python/solitaire/images/anglais.png), [français](./python/solitaire/images/francais.png) ou [allemand](./python/solitaire/images/allemand.png)
 - 
 
