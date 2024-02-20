@@ -11,7 +11,7 @@ Télécharger le notebook  `xxx.ipynb` et, éventuellement les autres fichiers d
 
 ### Permutations ([`permutations.pynb`](./python/permutations/permutations.ipynb))
 
-Génération de toutes les permutations d'un ensemble (fini) par un joli algorithme et aplication à des petites énigmes.
+Génération de toutes les permutations d'un ensemble (fini) par un joli algorithme et application à des petites énigmes.
 
 ### Parcours de graphe ([`parcours.ipynb`](./python/outils/parcours.ipynb)) 
 Fournit trois fonctions python utilisées par d'autres notebooks
