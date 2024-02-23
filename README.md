@@ -54,6 +54,16 @@ Un [Cube-Serpent](./python/snakecube/cobra-bleu-dev.png) étant donné, calcul d
 
 ## 2 Programmation par contraintes avec Python
 
+### 2.1 Programmes élémentaires
+
+TODO
+
+### 2.2 Utilisation de cpmpy
+
+TODO
+
+### 2.3 Génération d'explications pour la résolution de problèmes de satisfaction de contraintes
+
 TODO
 
 ## 3 Sage
