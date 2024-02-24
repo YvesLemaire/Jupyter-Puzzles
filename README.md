@@ -63,9 +63,9 @@ et application à la résolution du [problème du zèbre](https://fr.wikipedia.o
 
 TODO
 
-### 2.3 Génération d'explications pour la résolution de problèmes de satisfaction de contraintes
+### 2.3 [Génération d'explications pour la résolution de problèmes de satisfaction de contraintes]() ([explications.ipynb](./python/programmationContraintes/cpmpy/explications/explications.ipynb))
 
-TODO
+
 
 ## 3 Sage
 
