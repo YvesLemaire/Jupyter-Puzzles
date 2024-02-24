@@ -63,7 +63,14 @@ et application à la résolution du [problème du zèbre](https://fr.wikipedia.o
 
 TODO
 
-### 2.3 [Génération d'explications pour la résolution de problèmes de satisfaction de contraintes]() ([explications.ipynb](./python/programmationContraintes/cpmpy/explications/explications.ipynb))
+### 2.3 [Génération d'explications pour la résolution de problèmes de satisfaction de contraintes](https://arxiv.org/pdf/2006.06343.pdf) ([`explications.ipynb`](./python/programmationContraintes/cpmpy/explications/explications.ipynb))
+
+Notebook dont l'essentiel est issu de  [la page `github` de cpmy](https://github.com/CPMpy/cpmpy).
+
+A lire en parallèle avec l'un des trois notebooks suivants :
+
+### [Le problème du zèbre](https://fr.wikipedia.org/wiki/Int%C3%A9gramme) ([`zebre.ipynb`](./python/programmationContraintes/cpmpy/explications/zebre/zebre.ipynb))
+Génération d'une suite d'[explications pas à pas](./python/programmationContraintes/cpmpy/explications/zebre/zebre.png) pour la résolution du problème.
 
 
 
