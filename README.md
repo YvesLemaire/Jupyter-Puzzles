@@ -73,11 +73,11 @@ A lire en parallèle avec l'un des trois notebooks suivants :
 
 Génération d'une suite d'[explications pas à pas](./python/programmationContraintes/cpmpy/explications/zebre/zebre.png) pour la résolution du problème du zèbre.
 
-### [Sudoku](https://fr.wikipedia.org/wiki/Sudoku) [`sudoku.ipynb`](./python/programmationContraintes/cpmpy/explications/sudoku/sudoku.ipynb)
+### [Sudoku](https://fr.wikipedia.org/wiki/Sudoku) ([`sudoku.ipynb`](./python/programmationContraintes/cpmpy/explications/sudoku/sudoku.ipynb))
 
 Production d'une suite d'images expliquant la [résolution case par case](./python/programmationContraintes/cpmpy/explications/sudoku/images/given_9x9-0.png) d'une grille de sudoku. 
 
-### [Démineur](https://www.janko.at/Raetsel/Minesweeper) [`demineur.ipynb`](./python/programmationContraintes/cpmpy/explications/demineur/demineur.ipynb)
+### [Démineur](https://www.janko.at/Raetsel/Minesweeper) ([`demineur.ipynb`](./python/programmationContraintes/cpmpy/explications/demineur/demineur.ipynb))
 
 Production d'une suite d'images expliquant la [résolution case par case](./python/programmationContraintes/cpmpy/explications/demineur/images/given_sample-0.png) d'une grille de démineur. 
 
