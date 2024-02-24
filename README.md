@@ -59,7 +59,7 @@ Implémentation de [l'algorithme de Davis–Putnam–Logemann–Loveland (DPLL)]
 
 et application à la résolution du [problème du zèbre](https://fr.wikipedia.org/wiki/Int%C3%A9gramme), de [sudoku](https://fr.wikipedia.org/wiki/Sudoku)s et du [problème des 8 reines](https://fr.wikipedia.org/wiki/Probl%C3%A8me_des_huit_dames).
 
-### 2.2 Utilisation de cpmpy
+### 2.2 Utilisation de [cpmpy](https://cpmpy.readthedocs.io/en/latest/modeling.html)
 
 TODO
 
