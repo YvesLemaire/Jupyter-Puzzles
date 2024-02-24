@@ -78,7 +78,7 @@ Génération d'une suite d'[explications pas à pas](./python/programmationContr
 
 ### 3.1 Utilisation d'un noteboook jupyter `xxx.ipynb` avec un noyau [SageMath](https://www.sagemath.org/)
 
-- Pour une utilisation basique, téléverser `xxx.ipynb` sur [ce site](https://dahn-research.eu/nbplayer/). 
+- Pour une utilisation basique, téléverser `xxx.ipynb` sur [nbplayer](https://dahn-research.eu/nbplayer/). 
 - Sinon, 
     - si SageMath est installé sur votre machine, utiliser la commande `sage -n jupyter` dans un répertoire qui contient `xxx.ipynb`
     - ou vous pouvez ouvrir un compte [`sage.syzygy.ca`](https://sage.syzygy.ca/) ou [cocalc](https://cocalc.com/).
