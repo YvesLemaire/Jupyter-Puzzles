@@ -53,7 +53,7 @@ Un [Cube-Serpent](./python/snakecube/cobra-bleu-dev.png) étant donné, calcul d
 
 ## 2 Programmation par contraintes avec Python
 
-### 2.1 Programmes élémentaires
+### 2.1 [Le problème SAT](https://fr.wikipedia.org/wiki/Probl%C3%A8me_SAT) ([`SAT.ipynb`](./python/programmationContraintes/SAT/SAT.ipynb))
 
 TODO
 
