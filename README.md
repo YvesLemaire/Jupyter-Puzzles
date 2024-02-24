@@ -70,9 +70,16 @@ Notebook dont l'essentiel est issu de  [la page `github` de cpmy](https://github
 A lire en parallèle avec l'un des trois notebooks suivants :
 
 ### [Le problème du zèbre](https://fr.wikipedia.org/wiki/Int%C3%A9gramme) ([`zebre.ipynb`](./python/programmationContraintes/cpmpy/explications/zebre/zebre.ipynb))
+
 Génération d'une suite d'[explications pas à pas](./python/programmationContraintes/cpmpy/explications/zebre/zebre.png) pour la résolution du problème.
 
+### [Sudoku](https://fr.wikipedia.org/wiki/Sudoku) [`sudoku.ipynb`](./python/programmationContraintes/cpmpy/explications/sudoku/sudoku.ipynb)
 
+Production d'une suite d'images expliquant la [résolution case par case](./python/programmationContraintes/cpmpy/explications/sudoku/images/given_9x9-0.png) d'une grille de sudoku. 
+
+### [démineur](https://www.janko.at/Raetsel/Minesweeper) [`demineur.ipynb`](./python/programmationContraintes/cpmpy/explications/demineur/demineur.ipynb)
+
+Production d'une suite d'images expliquant la [résolution case par case](./python/programmationContraintes/cpmpy/explications/demineur/images/given_sample-0.png) d'une grille de démineur. 
 
 ## 3 Sage
 
