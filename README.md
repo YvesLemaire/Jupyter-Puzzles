@@ -59,7 +59,7 @@ Un [Cube-Serpent](./python/snakecube/cobra-bleu-dev.png) étant donné, calcul d
 
 Implémentation de [l'algorithme de Davis–Putnam–Logemann–Loveland (DPLL)](https://fr.wikipedia.org/wiki/Algorithme_DPLL) de résolution du problème de satisfiabilité d'une [FNC](https://fr.wikipedia.org/wiki/Calcul_des_propositions#Formes_normales_conjonctives,_formes_normales_disjonctives).
 
-On applique SAT à la résolution de petits problèmes de PPC comme la résolution du [problème du zèbre](https://fr.wikipedia.org/wiki/Int%C3%A9gramme), de [sudokus](https://fr.wikipedia.org/wiki/Sudoku)s et du [problème des 8 reines](https://fr.wikipedia.org/wiki/Probl%C3%A8me_des_huit_dames).
+On applique SAT à la résolution de petits problèmes de PPC comme la résolution du [problème du zèbre](https://fr.wikipedia.org/wiki/Int%C3%A9gramme), de [sudokus](https://fr.wikipedia.org/wiki/Sudoku) et du [problème des 8 reines](https://fr.wikipedia.org/wiki/Probl%C3%A8me_des_huit_dames).
 
 ### 2.2 Utilisation de [cpmpy](https://cpmpy.readthedocs.io/en/latest/modeling.html)
 
