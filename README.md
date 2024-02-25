@@ -77,7 +77,9 @@ Génération d'une suite d'[explications pas à pas](./python/programmationContr
 
 Production d'une suite d'images expliquant la [résolution case par case](./python/programmationContraintes/cpmpy/explications/sudoku/images/given_9x9-0.png) d'une grille de sudoku. 
 
-### [Démineur](https://www.janko.at/Raetsel/Minesweeper) ([`demineur.ipynb`](./python/programmationContraintes/cpmpy/explications/demineur/demineur.ipynb))
+### Démineur ([`demineur.ipynb`](./python/programmationContraintes/cpmpy/explications/demineur/demineur.ipynb))
+
+Il s'agit du [Puzzle Démineur](https://www.janko.at/Raetsel/Minesweeper) et pas du jeu vidéo.
 
 Production d'une suite d'images expliquant la [résolution case par case](./python/programmationContraintes/cpmpy/explications/demineur/images/given_sample-0.png) d'une grille de démineur. 
 
