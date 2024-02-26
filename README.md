@@ -65,6 +65,10 @@ On applique SAT à la résolution de petits problèmes de PPC comme la résoluti
 
 Lire la [documentation](https://cpmpy.readthedocs.io/en/latest/modeling.html) ; en voici un très court [résumé](./python/programmationContraintes/cpmpy/cpmpy.pdf).
 
+### [Le problème de Claude Berge](https://omnilogie.fr/O/Qui_a_tu%C3%A9_le_duc_de_Densmore_?) ([berge.ipynb](./python/programmationContraintes/cpmpy/berge/berge.ipynb))
+
+Application de la théorie des graphes à la criminologie.
+
 ### 2.3 [Génération d'explications pour la résolution de problèmes de satisfaction de contraintes](https://arxiv.org/pdf/2006.06343.pdf) ([`explications.ipynb`](./python/programmationContraintes/cpmpy/explications/explications.ipynb))
 
 Notebook dont l'essentiel est issu de  [la page `github` de cpmy](https://github.com/CPMpy/cpmpy).
