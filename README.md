@@ -65,7 +65,7 @@ On applique SAT à la résolution de petits problèmes de PPC comme la résoluti
 
 Lire la [documentation](https://cpmpy.readthedocs.io/en/latest/modeling.html) ; en voici un très court [résumé](./python/programmationContraintes/cpmpy/cpmpy.pdf).
 
-### [Le problème de Claude Berge](https://omnilogie.fr/O/Qui_a_tu%C3%A9_le_duc_de_Densmore_?) ([berge.ipynb](./python/programmationContraintes/cpmpy/berge/berge.ipynb))
+### [Le problème de Claude Berge](https://omnilogie.fr/O/Qui_a_tu%C3%A9_le_duc_de_Densmore_?) ([`berge.ipynb`](./python/programmationContraintes/cpmpy/berge/berge.ipynb))
 
 Application de la théorie des graphes à la criminologie.
 
