@@ -63,7 +63,7 @@ On applique SAT à la résolution de petits problèmes de PPC comme la résoluti
 
 ### 2.2 Utilisation de [cpmpy](https://cpmpy.readthedocs.io/en/latest/modeling.html)
 
-Lire la [documentation](https://cpmpy.readthedocs.io/en/latest/modeling.html) ; en voici un très court [résumé](./python/programmationContraintes/cpmpy/cpmpy.pdf).
+Voir la [documentation](https://cpmpy.readthedocs.io/en/latest/modeling.html) ; en voici un très court [résumé](./python/programmationContraintes/cpmpy/cpmpy.pdf).
 
 ### Exemples ([`cpmpy-exemples.ipynb`](./python/programmationContraintes/cpmpy/exemples/cpmpy-exemples.ipynb))
 
@@ -85,13 +85,13 @@ Génération d'une suite d'[explications pas à pas](./python/programmationContr
 
 ### [Sudoku](https://fr.wikipedia.org/wiki/Sudoku) ([`sudoku.ipynb`](./python/programmationContraintes/cpmpy/explications/sudoku/sudoku.ipynb))
 
-Production d'une suite d'images expliquant la [résolution case par case](./python/programmationContraintes/cpmpy/explications/sudoku/images/given_9x9-0.png) d'une grille de sudoku. 
+Production d'une suite d'images expliquant la [résolution case après case](./python/programmationContraintes/cpmpy/explications/sudoku/images/given_9x9-0.png) d'une grille de sudoku. 
 
 ### Démineur ([`demineur.ipynb`](./python/programmationContraintes/cpmpy/explications/demineur/demineur.ipynb))
 
 Il s'agit du [Puzzle Démineur](https://www.janko.at/Raetsel/Minesweeper) et pas du jeu vidéo.
 
-Production d'une suite d'images expliquant la [résolution case par case](./python/programmationContraintes/cpmpy/explications/demineur/images/given_sample-0.png) d'une grille de démineur. 
+Production d'une suite d'images expliquant la [résolution case après case](./python/programmationContraintes/cpmpy/explications/demineur/images/given_sample-0.png) d'une grille de démineur. 
 
 ## 3 Sage
 
