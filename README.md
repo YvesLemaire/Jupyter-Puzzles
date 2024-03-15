@@ -93,6 +93,10 @@ Il s'agit du [Puzzle Démineur](https://www.janko.at/Raetsel/Minesweeper) et pas
 
 Production d'une suite d'images expliquant la [résolution case après case](./python/programmationContraintes/cpmpy/explications/demineur/images/given_sample-0.png) d'une grille de démineur. 
 
+### Fonction de Grundy et noyau d'un graphe acyclique ([`noyau-graphe.ipynb`](./python/noyau/noyau-graphe.ipynb))
+
+Application à quelques [jeux impartiaux](https://fr.wikipedia.org/wiki/Jeu_impartial) sans partie nulle.
+
 ## 3 Sage
 
 ### 3.1 Utilisation d'un noteboook jupyter `xxx.ipynb` avec un noyau [SageMath](https://www.sagemath.org/)
