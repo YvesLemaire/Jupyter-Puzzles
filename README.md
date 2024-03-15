@@ -51,6 +51,10 @@ Pour être complet, le notebook comprend aussi une interface avec l'excellent [s
 ### 1.11 [Snake Cube](https://fr.wikipedia.org/wiki/Cube_serpent) ([`snakecube.ipynb`](./python/snakecube/snakecube.ipynb)) 
 Un [Cube-Serpent](./python/snakecube/cobra-bleu-dev.png) étant donné, calcul de ses [solutions](./python/snakecube/cobra-bleu.png).
 
+### 1.12 Fonction de Grundy et noyau d'un graphe acyclique ([`noyau-graphe.ipynb`](./python/noyau/noyau-graphe.ipynb))
+
+Application à quelques [jeux impartiaux](https://fr.wikipedia.org/wiki/Jeu_impartial) sans partie nulle.
+
 ## 2 Programmation par contraintes avec Python
 
 [Programmation par contraintes, Louis-Martin Rousseau et Gilles Pesant](https://www.tofgarion.net/lectures/XX201/choco/PPC.pdf) constitue une bonne introduction aux algorithmes utilisés en PPC (Programmation Par Contraintes) par les solveurs disponibles dans Python, comme [OR-Tools](https://developers.google.com/optimization/introduction/python?hl=fr), le solveur de Google .
@@ -92,10 +96,6 @@ Production d'une suite d'images expliquant la [résolution case après case](./p
 Il s'agit du [Puzzle Démineur](https://www.janko.at/Raetsel/Minesweeper) et pas du jeu vidéo.
 
 Production d'une suite d'images expliquant la [résolution case après case](./python/programmationContraintes/cpmpy/explications/demineur/images/given_sample-0.png) d'une grille de démineur. 
-
-### Fonction de Grundy et noyau d'un graphe acyclique ([`noyau-graphe.ipynb`](./python/noyau/noyau-graphe.ipynb))
-
-Application à quelques [jeux impartiaux](https://fr.wikipedia.org/wiki/Jeu_impartial) sans partie nulle.
 
 ## 3 Sage
 
