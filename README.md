@@ -118,9 +118,9 @@ L'algorithme X de Knuth est implémenté efficacement avec la méthode, incluse 
 #### [`tests.ipynb`](./sage/couvertureExacte/tests.ipynb)
 Résolution de [sudokus](https://fr.wikipedia.org/wiki/Sudoku) et du [problème des 8 reines](https://fr.wikipedia.org/wiki/Probl%C3%A8me_des_huit_dames) 
 #### [`puzzles-carres.ipynb`](./sage/couvertureExacte/puzzles-carres/puzzles-carres.ipynb)
-Résolution de  [puzzles de pentominos](./sage/algorithmeX/puzzle.png).
+Résolution de  [puzzles de pentominos](./sage/couvertureExacte/puzzles-carres/puzzle.png).
 #### [`puzzles-3D.ipynb`](./sage/couvertureExacte/puzzles-3D/puzzles-3D.ipynb)
-Résolution de  [puzzles de cuboïdes](./sage/algorithmeX/puzzle.png).
+Résolution de  [puzzles de cuboïdes](https://rawcdn.githack.com/YvesLemaire/images/0b7ee21d1350399b774ba49bf645ad0d6d89cf2b/graphic.html).
  
 
 [^1]: `rubiks` est pré-installé sur  [`sage.syzygy.ca`](https://sage.syzygy.ca/) et [cocalc](https://cocalc.com/) mais pas sur [nbplayer](https://dahn-research.eu/nbplayer/)
