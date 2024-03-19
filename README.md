@@ -112,9 +112,15 @@ Interface avec les solveurs de Rubik's Cube fournis par Sage (si le package exte
 ### 3.3 [Rubik's Snake](https://fr.wikipedia.org/wiki/Rubik%27s_Snake) ([`rubiksnake.ipynb`](./sage/rubiksnake/rubiksnake.ipynb))
 Etude d'un Rubik's Snake donné par son code, par exemple [000000220220220102202200](https://raw.githack.com/YvesLemaire/images/main/cat.html) et [aide à sa réalisation](./sage/rubiksnake/cat.png)
 
-### 3.4 [Algorithme X](https://fr.wikipedia.org/wiki/Algorithme_X_de_Knuth) ([`algorithmeX.ipynb`](./sage/algorithmeX/algorithmeX.ipynb))
-Applications de l'algorithme X à la résolution de [sudokus](https://fr.wikipedia.org/wiki/Sudoku), du [problème des 8 reines](https://fr.wikipedia.org/wiki/Probl%C3%A8me_des_huit_dames) et surtout de [puzzles](./sage/algorithmeX/puzzle.png).
+### 3.4 [Problème de la couverture exacte](https://fr.wikipedia.org/wiki/Algorithme_X_de_Knuth) ([`algorithmeX.ipynb`](./sage/couvertureExacte/algorithmeX.ipynb))
+L'algorithme X de Knuth est implémenté efficacement avec la méthode, incluse dans Sage, des [liens dansants](https://arxiv.org/pdf/cs/0011047.pdf) de [Donald Knuth](https://www-cs-faculty.stanford.edu/~knuth/).
 
-L'algorithme est implémenté efficacement avec la méthode, incluse dans Sage, des [liens dansants](https://arxiv.org/pdf/cs/0011047.pdf) de [Donald Knuth](https://www-cs-faculty.stanford.edu/~knuth/). 
+#### [`tests.ipynb`](./sage/couvertureExacte/tests.ipynb)
+Résolution de [sudokus](https://fr.wikipedia.org/wiki/Sudoku) et du [problème des 8 reines](https://fr.wikipedia.org/wiki/Probl%C3%A8me_des_huit_dames) 
+#### [`puzzles-carres.ipynb`](./sage/couvertureExacte/puzzles-carres/puzzles-carres.ipynb)
+Résolution de  [puzzles de pentominos](./sage/algorithmeX/puzzle.png).
+#### [`puzzles-3D.ipynb`](./sage/couvertureExacte/puzzles-3D/puzzles-3D.ipynb)
+Résolution de  [puzzles de cuboïdes](./sage/algorithmeX/puzzle.png).
+ 
 
 [^1]: `rubiks` est pré-installé sur  [`sage.syzygy.ca`](https://sage.syzygy.ca/) et [cocalc](https://cocalc.com/) mais pas sur [nbplayer](https://dahn-research.eu/nbplayer/)
