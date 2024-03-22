@@ -20,7 +20,9 @@ Fournit trois fonctions python utilisées par d'autres notebooks
 
 ### 1.3 [Solitaire](https://fr.wikipedia.org/wiki/Solitaire_(casse-t%C3%AAte)) ([`solitaire.ipynb`](./python/solitaire/solitaire.ipynb)) 
 
-Utilisation du [parcours en profondeur](./python/outils/parcours.ipynb) d'un graphe pour la résolution de solitaires, par exemple anglais ![anglais](./python/solitaire/images/anglais.png), français ![français](./python/solitaire/images/francais.png) ou allemand ![allemand](./python/solitaire/images/allemand.png)
+Utilisation du [parcours en profondeur](./python/outils/parcours.ipynb) d'un graphe pour la résolution de solitaires, par exemple anglais, français ou allemand :
+
+![anglais](./python/solitaire/images/anglais.png) ![français](./python/solitaire/images/francais.png)  ![allemand](./python/solitaire/images/allemand.png)
 
 ### 1.4 [Sokoban](https://fr.wikipedia.org/wiki/Sokoban) ([`sokoban.ipynb`](./python/sokoban/sokoban.ipynb) 
 
