@@ -22,7 +22,7 @@ Fournit trois fonctions python utilisées par d'autres notebooks
 
 Utilisation du [parcours en profondeur](./python/outils/parcours.ipynb) d'un graphe pour la résolution de solitaires, par exemple anglais, français ou allemand :
 
-![anglais](./python/solitaire/images/anglais.png) $\qquad$ ![français](./python/solitaire/images/francais.png) $\qquad$ ![allemand](./python/solitaire/images/allemand.png) 
+![anglais](./python/solitaire/images/anglais.png)  ![français](./python/solitaire/images/francais.png)  ![allemand](./python/solitaire/images/allemand.png) 
 
 ### 1.4 [Sokoban](https://fr.wikipedia.org/wiki/Sokoban) ([`sokoban.ipynb`](./python/sokoban/sokoban.ipynb) 
 
