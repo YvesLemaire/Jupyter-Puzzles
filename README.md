@@ -20,7 +20,7 @@ Fournit trois fonctions python utilisées par d'autres notebooks
 
 ### 1.3 [Solitaire](https://fr.wikipedia.org/wiki/Solitaire_(casse-t%C3%AAte)) ([`solitaire.ipynb`](./python/solitaire/solitaire.ipynb)) 
 
-Utilisation du [parcours en profondeur](./python/outils/parcours.ipynb) d'un graphe pour la résolution de solitaires, par exemple [anglais](./python/solitaire/images/anglais.png), [français](./python/solitaire/images/francais.png) ou [allemand](./python/solitaire/images/allemand.png)
+Utilisation du [parcours en profondeur](./python/outils/parcours.ipynb) d'un graphe pour la résolution de solitaires, par exemple anglais ![anglais](./python/solitaire/images/anglais.png), français ![français](./python/solitaire/images/francais.png) ou allemand ![allemand](./python/solitaire/images/allemand.png)
 
 ### 1.4 [Sokoban](https://fr.wikipedia.org/wiki/Sokoban) ([`sokoban.ipynb`](./python/sokoban/sokoban.ipynb) 
 
@@ -73,8 +73,9 @@ Voir la [documentation](https://cpmpy.readthedocs.io/en/latest/modeling.html) ; 
 
 5 exemples d'applications du module CPMpy dont
 
-[Application de la théorie des graphes à la criminologie](https://omnilogie.fr/O/Qui_a_tu%C3%A9_le_duc_de_Densmore_?),
+[Application de la théorie des graphes à la criminologie](https://omnilogie.fr/O/Qui_a_tu%C3%A9_le_duc_de_Densmore_?) ;
 
+marche du fou
 ![Marche du fou](./python/programmationContraintes/cpmpy/exemples/fou.png)
 
 ### 2.3 [Génération d'explications pour la résolution de problèmes de satisfaction de contraintes](https://arxiv.org/pdf/2006.06343.pdf) ([`explications.ipynb`](./python/programmationContraintes/cpmpy/explications/explications.ipynb))
