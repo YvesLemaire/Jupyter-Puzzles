@@ -28,7 +28,7 @@ Utilisation du [parcours en profondeur](./python/outils/parcours.ipynb) d'un gra
 
 Utilisation de l'[Algorithme A*](./python/outils/parcours.ipynb) pour trouver une solution optimale (nombre minimum de déplacements) d'un sokoban de pas trop grande dimension, par exemple, le microcosmos31 :
 
-![microcosmos31](./python/sokoban/images/microcosmos31_0.png)
+![microcosmos31](./python/sokoban/images/microcosmos31.png)
 
 ### 1.5 8-puzzle ([`8-puzzle.ipynb`](./python/8-puzzle/8-puzzle.ipynb))
 
