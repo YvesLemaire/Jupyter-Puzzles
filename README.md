@@ -75,9 +75,9 @@ Voir la [documentation](https://cpmpy.readthedocs.io/en/latest/modeling.html) ; 
 
 5 exemples d'applications du module CPMpy dont
 
-[Application de la théorie des graphes à la criminologie](https://omnilogie.fr/O/Qui_a_tu%C3%A9_le_duc_de_Densmore_?) ;
+[Application de la théorie des graphes à la criminologie](https://omnilogie.fr/O/Qui_a_tu%C3%A9_le_duc_de_Densmore_?)
 
-marche du fou
+Marche du fou :
 
 ![Marche du fou](./python/programmationContraintes/cpmpy/exemples/fou.png)
 
