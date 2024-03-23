@@ -150,7 +150,7 @@ Puzzles de polyiamonds :
 ![puzzles de polyiamonds](./sage/couvertureExacte/puzzles-triangles/puzzle.png).
 
 #### [`puzzles-3D.ipynb`](./sage/couvertureExacte/puzzles-3D/puzzles-3D.ipynb)
-Résolution de  [puzzles de cuboïdes](https://rawcdn.githack.com/YvesLemaire/images/0b7ee21d1350399b774ba49bf645ad0d6d89cf2b/graphic.html).
+[Puzzles de cuboïdes](https://rawcdn.githack.com/YvesLemaire/images/0b7ee21d1350399b774ba49bf645ad0d6d89cf2b/graphic.html).
  
 
 [^1]: `rubiks` est pré-installé sur  [`sage.syzygy.ca`](https://sage.syzygy.ca/) et [cocalc](https://cocalc.com/) mais pas sur [nbplayer](https://dahn-research.eu/nbplayer/)
