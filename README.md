@@ -129,7 +129,7 @@ Interface avec les solveurs de Rubik's Cube fournis par Sage (si le package exte
 Etude d'un Rubik's Snake donné par son code, par exemple [000000220220220102202200](https://raw.githack.com/YvesLemaire/images/main/cat.html) et
 [aide à sa réalisation](./sage/rubiksnake/cat.png) :
 
-![rs](./sage/rubiksnake/cat.png)
+![rs](./sage/rubiksnake/rs.png)
 
 ### 3.4 [Problème de la couverture exacte](https://fr.wikipedia.org/wiki/Algorithme_X_de_Knuth) ([`algorithmeX.ipynb`](./sage/couvertureExacte/algorithmeX.ipynb))
 L'algorithme X de Knuth est implémenté efficacement avec la méthode, incluse dans Sage, des [liens dansants](https://arxiv.org/pdf/cs/0011047.pdf) de [Donald Knuth](https://www-cs-faculty.stanford.edu/~knuth/).
