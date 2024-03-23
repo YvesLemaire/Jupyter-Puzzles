@@ -136,9 +136,19 @@ L'algorithme X de Knuth est implémenté efficacement avec la méthode, incluse 
 #### [`tests.ipynb`](./sage/couvertureExacte/tests.ipynb)
 Résolution de [sudokus](https://fr.wikipedia.org/wiki/Sudoku) et du [problème des 8 reines](https://fr.wikipedia.org/wiki/Probl%C3%A8me_des_huit_dames) 
 #### [`puzzles-carres.ipynb`](./sage/couvertureExacte/puzzles-carres/puzzles-carres.ipynb)
-Résolution de puzzles de pentominos : 
+Puzzles de polyominos : 
 
-![puzzles de pentominos](./sage/couvertureExacte/puzzles-carres/puzzle.png).
+![puzzles de polyominos](./sage/couvertureExacte/puzzles-carres/puzzle.png).
+
+#### [`puzzles-hexagones.ipynb`](./sage/couvertureExacte/puzzles-hexagones/puzzles-hexagones.ipynb)
+Puzzles de polyhexs : 
+
+![puzzles de polyhexs](./sage/couvertureExacte/puzzles-hexagones/puzzle.png).
+#### [`puzzles-triangles.ipynb`](./sage/couvertureExacte/puzzles-triangles/puzzles-triangles.ipynb)
+Puzzles de polyiamonds : 
+
+![puzzles de polyiamonds](./sage/couvertureExacte/puzzles-triangles/puzzle.png).
+
 #### [`puzzles-3D.ipynb`](./sage/couvertureExacte/puzzles-3D/puzzles-3D.ipynb)
 Résolution de  [puzzles de cuboïdes](https://rawcdn.githack.com/YvesLemaire/images/0b7ee21d1350399b774ba49bf645ad0d6d89cf2b/graphic.html).
  
