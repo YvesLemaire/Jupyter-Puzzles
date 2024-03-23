@@ -139,16 +139,17 @@ Résolution de [sudokus](https://fr.wikipedia.org/wiki/Sudoku) et du [problème 
 #### [`puzzles-carres.ipynb`](./sage/couvertureExacte/puzzles-carres/puzzles-carres.ipynb)
 Puzzles de polyominos : 
 
-![puzzles de polyominos](./sage/couvertureExacte/puzzles-carres/puzzle.png).
+![puzzles de polyominos](./sage/couvertureExacte/puzzles-carres/puzzle.png)
+![puzzles de polyominos2](./sage/couvertureExacte/puzzles-carres/puzzle2.png)
 
 #### [`puzzles-hexagones.ipynb`](./sage/couvertureExacte/puzzles-hexagones/puzzles-hexagones.ipynb)
 Puzzles de polyhexs : 
 
-![puzzles de polyhexs](./sage/couvertureExacte/puzzles-hexagones/puzzle.png).
+![puzzles de polyhexs](./sage/couvertureExacte/puzzles-hexagones/puzzle.png)
 #### [`puzzles-triangles.ipynb`](./sage/couvertureExacte/puzzles-triangles/puzzles-triangles.ipynb)
 Puzzles de polyiamonds : 
 
-![puzzles de polyiamonds](./sage/couvertureExacte/puzzles-triangles/puzzle.png).
+![puzzles de polyiamonds](./sage/couvertureExacte/puzzles-triangles/puzzle.png)
 
 #### [`puzzles-3D.ipynb`](./sage/couvertureExacte/puzzles-3D/puzzles-3D.ipynb)
 [Puzzles de cuboïdes](https://rawcdn.githack.com/YvesLemaire/images/0b7ee21d1350399b774ba49bf645ad0d6d89cf2b/graphic.html) :
