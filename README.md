@@ -1,5 +1,6 @@
 # Jupyter-Puzzles
-Ce dépôt contient des notebooks jupyter (fichiers de la forme `xxx.ipynb`), avec noyau python ou sage, ayant pour objet la résolution de puzzles, de problèmes logiques, etc.
+Ce dépôt contient des notebooks jupyter (fichiers de la forme `xxx.ipynb`), avec noyau python ou sage, ayant pour objet la résolution de puzzles, de problèmes logiques, etc.   
+Si vous clonez tout ou partie du dépôt, veillez à respecter l'arborescence des fichiers.
 
 ## 1 Python
 
@@ -115,10 +116,8 @@ Production d'une suite d'images expliquant la résolution case après case  d'un
 
 ### 3.1 Utilisation d'un noteboook jupyter `xxx.ipynb` avec un noyau [SageMath](https://www.sagemath.org/)
 
-- Pour une utilisation basique, téléverser `xxx.ipynb` sur [nbplayer](https://dahn-research.eu/nbplayer/). 
-- Sinon, 
-    - si SageMath est installé sur votre machine, utiliser la commande `sage -n jupyter` dans un répertoire qui contient `xxx.ipynb`
-    - ou vous pouvez ouvrir un compte [`sage.syzygy.ca`](https://sage.syzygy.ca/) ou [cocalc](https://cocalc.com/).
+- si SageMath est installé sur votre machine, utiliser la commande `sage -n jupyter` dans un répertoire qui contient `xxx.ipynb` ou ouvrir le fichier dans [VScode](https://code.visualstudio.com/) ; 
+- ou vous pouvez ouvrir un compte [`sage.syzygy.ca`](https://sage.syzygy.ca/) ou [cocalc](https://cocalc.com/).
 
 ### 3.2 Rubik's Cube 3x3x3 ([`rubikcube.ipynb`](./sage/rubikcube/rubikcube.ipynb))
 Interface avec les solveurs de Rubik's Cube fournis par Sage (si le package externe [`rubiks`](https://doc.sagemath.org/html/en/reference/spkg/rubiks.html) est installé [^1]) et affichage graphique  des solutions:
@@ -156,4 +155,4 @@ Puzzles de polyiamonds :
 
 ![puzzles de polycubes](./sage/couvertureExacte/puzzles-3D/puzzle-1.png)  ![puzzles de polycubes](./sage/couvertureExacte/puzzles-3D/puzzle-2.png)
 
-[^1]: `rubiks` est pré-installé sur  [`sage.syzygy.ca`](https://sage.syzygy.ca/) et [cocalc](https://cocalc.com/) mais pas sur [nbplayer](https://dahn-research.eu/nbplayer/)
+[^1]: `rubiks` est pré-installé sur  [`sage.syzygy.ca`](https://sage.syzygy.ca/) et [cocalc](https://cocalc.com/)
