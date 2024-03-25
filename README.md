@@ -47,8 +47,9 @@ Applications de la théorie des automates à la résolution de problèmes [de bo
 choisis parmi les plus beaux (selon moi) problèmes du type "je sais, je sais pas" : le problème de Freudenthal et le problème de Axel Born, Kor Hurkens et Gerhard Woeginger, tous deux référencés [ici](https://interstices.info/jcms/c_33649/l-incroyable-probleme-de-freudenthal).
 
 ### 1.9 [Mastermind](https://fr.wikipedia.org/wiki/Mastermind) ([`mastermind.ipynb`](./python/mastermind/mastermind.ipynb))
-Faire jouer à l'ordinateur le rôle du décodeur dans le jeu Mastermind. L'algorithme utilisé, dû à [Donald Knuth](https://fr.wikipedia.org/wiki/Donald_Knuth), est nommé *five-guess* car il permet de trouver le code caché en au plus cinq propositions (cinq motifs proposés).  
-Un autre algorithme (D. L. Greenwell) est proposé pour le mastermind classique ($4$ positions et $6$ couleurs) qui consiste à proposer 6 motifs, toujours les mêmes, pour calculer le code.
+Faire jouer à l'ordinateur le rôle du décodeur dans le jeu Mastermind. L'algorithme utilisé, dû à [Donald Knuth](https://fr.wikipedia.org/wiki/Donald_Knuth), est nommé *five-guess* car il permet, dans le cas du mastermind classique ($4$ positions et $6$ couleurs), de trouver le code caché en au plus cinq propositions (cinq motifs proposés).  
+Une autre méthode (D. L. Greenwell) est proposée qui consiste à toujours proposer les 6 motifs suivants (dans 89 % des cas, les 5 premiers suffisent) :
+
 
 ### 1.10 [Rubik's Cube 2x2x2](https://fr.wikipedia.org/wiki/Pocket_Cube) ([`rubikcube2x2x2.ipynb`](./python/rubikcube/rubikcube2x2x2.ipynb))
 Utilisation de la notion de parcours en largeur d'un graphe pour calculer efficacement une solution optimale d'un Rubik's Cube 2x2x2.
