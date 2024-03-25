@@ -152,7 +152,7 @@ Puzzles de polyiamonds :
 ![puzzles de polyiamonds](./sage/couvertureExacte/puzzles-2D/puzzles-triangles/puzzle.png)
 
 #### [`puzzles-3D.ipynb`](./sage/couvertureExacte/puzzles-3D/puzzles-3D.ipynb)
-[Puzzles de cuboïdes](https://rawcdn.githack.com/YvesLemaire/images/0b7ee21d1350399b774ba49bf645ad0d6d89cf2b/graphic.html) :
+[Puzzles de cuboïdes](https://raw.githack.com/YvesLemaire/images/main/graphic2.html) :
 
 ![puzzles de cuboides](./sage/couvertureExacte/puzzles-3D/puzzle.png)
 
