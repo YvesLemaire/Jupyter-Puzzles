@@ -41,7 +41,7 @@ Application de la notion de cycle hamiltonien d'un graphe à la résolution du p
 ![résolution du problème du cavalier](./python/cavalier/cavalier.png)
 
 ### 1.7 [Automates](https://fr.wikipedia.org/wiki/Th%C3%A9orie_des_automates) ([`automates.ipynb`](./python/automates/automates.ipynb))
-Applications de la théorie des automates à la résolution de quelques problèmes, comme [les 3 bouteilles](https://www.prise2tete.fr/forum/viewtopic.php?id=5151) ou [loup, chèvre et chou](https://fr.wikipedia.org/wiki/Le_loup,_la_ch%C3%A8vre_et_le_chou).
+Applications de la théorie des automates à la résolution de problèmes [de bouteilles](https://www.prise2tete.fr/forum/viewtopic.php?id=5151) et de [de passage de rivière](https://fr.wikipedia.org/wiki/Probl%C3%A8mes_de_passage_de_rivi%C3%A8re), ainsi que de l'énigme dite des 4 jetons ou du barman aveugle.
 
 ### 1.8 Deux problèmes de logique ([`logique.ipynb`](./python/logique/logique.ipynb))
 choisis parmi les plus beaux (selon moi) problèmes du type "je sais, je sais pas" : le problème de Freudenthal et le problème de Axel Born, Kor Hurkens et Gerhard Woeginger, tous deux référencés [ici](https://interstices.info/jcms/c_33649/l-incroyable-probleme-de-freudenthal).
