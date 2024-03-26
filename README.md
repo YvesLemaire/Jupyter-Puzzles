@@ -29,7 +29,7 @@ Utilisation du [parcours en profondeur](./python/outils/parcours.ipynb) d'un gra
 
 Utilisation de l'[Algorithme A*](./python/outils/parcours.ipynb) pour trouver une solution optimale (nombre minimum de déplacements) d'un sokoban de pas trop grande dimension, par exemple, le microcosmos31 :
 
-![microcosmos31](./python/sokoban/images/microcosmos31.png)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ![microcosmos31](./python/sokoban/images/microcosmos31.png)
 
 ### 1.5 8-puzzle ([`8-puzzle.ipynb`](./python/8-puzzle/8-puzzle.ipynb))
 
@@ -44,7 +44,7 @@ Utilisation de l'[Algorithme A*](./python/outils/parcours.ipynb) pour trouver un
 ### 1.7 [Marche du cavalier](https://fr.wikipedia.org/wiki/Probl%C3%A8me_du_cavalier) ([`cavalier.ipynb`](./python/cavalier/cavalier.ipynb))
 Application de la notion de cycle hamiltonien d'un graphe à la résolution du problème du cavalier :
 
-![résolution du problème du cavalier](./python/cavalier/cavalier.png)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ![résolution du problème du cavalier](./python/cavalier/cavalier.png)
 
 ### 1.8 [Automates](https://fr.wikipedia.org/wiki/Th%C3%A9orie_des_automates) ([`automates.ipynb`](./python/automates/automates.ipynb))
 Applications de la théorie des automates à la résolution de problèmes [de bouteilles](https://www.prise2tete.fr/forum/viewtopic.php?id=5151) et de [de passage de rivière](https://fr.wikipedia.org/wiki/Probl%C3%A8mes_de_passage_de_rivi%C3%A8re), ainsi que de l'énigme dite des 4 jetons ou du barman aveugle.
