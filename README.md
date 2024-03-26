@@ -17,7 +17,7 @@ Génération de toutes les permutations d'un ensemble (fini) par un joli algorit
 Fournit trois fonctions python utilisées par d'autres notebooks
 - `dfs` parcours en profondeur, utilisé par [`solitaire.ipynb`](./python/solitaire/solitaire.ipynb)
 - `bfs` parcours en largeur
-- `aStar` algorithme A*, utilisé par  [`sokoban.ipynb`](./python/sokoban/sokoban.ipynb) et [`8-puzzle.ipynb`](./python/8-puzzle/8-puzzle.ipynb)
+- `aStar` algorithme A*, utilisé par  [`sokoban.ipynb`](./python/sokoban/sokoban.ipynb), [`8-puzzle.ipynb`](./python/8-puzzle/8-puzzle.ipynb) et [`rush-hour.ipynb`](./python/rush-hour/rush-hour.ipynb)
 
 ### 1.3 [Solitaire](https://fr.wikipedia.org/wiki/Solitaire_(casse-t%C3%AAte)) ([`solitaire.ipynb`](./python/solitaire/solitaire.ipynb)) 
 
@@ -35,18 +35,24 @@ Utilisation de l'[Algorithme A*](./python/outils/parcours.ipynb) pour trouver un
 
 Utilisation de l'[Algorithme A*](./python/outils/parcours.ipynb) pour trouver une solution optimale (nombre minimum de déplacements) d'une version simplifiée (8 pièces au lieu de 15) du [15-puzzle](https://fr.wikipedia.org/wiki/Taquin)
 
-### 1.6 [Marche du cavalier](https://fr.wikipedia.org/wiki/Probl%C3%A8me_du_cavalier) ([`cavalier.ipynb`](./python/cavalier/cavalier.ipynb))
+### 1.6 [Rush Hour](https://en.wikipedia.org/wiki/Rush_Hour_(puzzle)) ([`rush-hour.ipynb`](./python/rush-hour/rush-hour.ipynb))
+
+Utilisation de l'[Algorithme A*](./python/outils/parcours.ipynb) pour trouver une solution optimale du jeu
+
+![jeu1-0](./python/rush-hour/images/jeu1-0.png)
+
+### 1.7 [Marche du cavalier](https://fr.wikipedia.org/wiki/Probl%C3%A8me_du_cavalier) ([`cavalier.ipynb`](./python/cavalier/cavalier.ipynb))
 Application de la notion de cycle hamiltonien d'un graphe à la résolution du problème du cavalier :
 
 ![résolution du problème du cavalier](./python/cavalier/cavalier.png)
 
-### 1.7 [Automates](https://fr.wikipedia.org/wiki/Th%C3%A9orie_des_automates) ([`automates.ipynb`](./python/automates/automates.ipynb))
+### 1.8 [Automates](https://fr.wikipedia.org/wiki/Th%C3%A9orie_des_automates) ([`automates.ipynb`](./python/automates/automates.ipynb))
 Applications de la théorie des automates à la résolution de problèmes [de bouteilles](https://www.prise2tete.fr/forum/viewtopic.php?id=5151) et de [de passage de rivière](https://fr.wikipedia.org/wiki/Probl%C3%A8mes_de_passage_de_rivi%C3%A8re), ainsi que de l'énigme dite des 4 jetons ou du barman aveugle.
 
-### 1.8 Deux problèmes de logique ([`logique.ipynb`](./python/logique/logique.ipynb))
+### 1.9 Deux problèmes de logique ([`logique.ipynb`](./python/logique/logique.ipynb))
 choisis parmi les plus beaux (selon moi) problèmes du type "je sais, je sais pas" : le problème de Freudenthal et le problème de Axel Born, Kor Hurkens et Gerhard Woeginger, tous deux référencés [ici](https://interstices.info/jcms/c_33649/l-incroyable-probleme-de-freudenthal).
 
-### 1.9 [Mastermind](https://fr.wikipedia.org/wiki/Mastermind) ([`mastermind.ipynb`](./python/mastermind/mastermind.ipynb))
+### 1.10 [Mastermind](https://fr.wikipedia.org/wiki/Mastermind) ([`mastermind.ipynb`](./python/mastermind/mastermind.ipynb))
 Faire jouer à l'ordinateur le rôle du décodeur dans le jeu Mastermind. L'algorithme utilisé, dû à [Donald Knuth](https://fr.wikipedia.org/wiki/Donald_Knuth), est nommé *five-guess* car il permet, dans le cas du mastermind classique ($4$ positions et $6$ couleurs), de trouver le code caché en au plus cinq propositions (cinq motifs proposés).  
 Une autre méthode (D. L. Greenwell) est proposée qui consiste à toujours proposer les 6 motifs suivants (dans 89 % des cas, les 5 premiers suffisent) :
 
@@ -57,17 +63,17 @@ Une autre méthode (D. L. Greenwell) est proposée qui consiste à toujours prop
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⚫⚪⚫⚪   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⚪⚪🟡🔵   
 
-### 1.10 [Rubik's Cube 2x2x2](https://fr.wikipedia.org/wiki/Pocket_Cube) ([`rubikcube2x2x2.ipynb`](./python/rubikcube/rubikcube2x2x2.ipynb))
+### 1.11 [Rubik's Cube 2x2x2](https://fr.wikipedia.org/wiki/Pocket_Cube) ([`rubikcube2x2x2.ipynb`](./python/rubikcube/rubikcube2x2x2.ipynb))
 Utilisation de la notion de parcours en largeur d'un graphe pour calculer efficacement une solution optimale d'un Rubik's Cube 2x2x2.
 
 Pour être complet, le notebook comprend aussi une interface avec l'excellent [solveur](https://github.com/Wiston999/python-rubik) de Victor Cabezas qui calcule en un temps très raisonable une solution presque optimale d'un Rubik's Cube classique 3x3x3. Pour l'utiliser : `pip install rubik_solver`
 
-### 1.11 [Snake Cube](https://fr.wikipedia.org/wiki/Cube_serpent) ([`snakecube.ipynb`](./python/snakecube/snakecube.ipynb)) 
+### 1.12 [Snake Cube](https://fr.wikipedia.org/wiki/Cube_serpent) ([`snakecube.ipynb`](./python/snakecube/snakecube.ipynb)) 
 Calcul des solutions d'un cube serpent :
 
 ![Cube-Serpent](./python/snakecube/cobra-bleu-dev.png) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![solutions](./python/snakecube/cobra-bleu.png)
 
-### 1.12 Fonction de Grundy et noyau d'un graphe acyclique ([`noyau-graphe.ipynb`](./python/noyau/noyau-graphe.ipynb))
+### 1.13 Fonction de Grundy et noyau d'un graphe acyclique ([`noyau-graphe.ipynb`](./python/noyau/noyau-graphe.ipynb))
 
 Application à quelques [jeux impartiaux](https://fr.wikipedia.org/wiki/Jeu_impartial) sans partie nulle.
 
