@@ -75,7 +75,7 @@ Calcul des solutions d'un cube serpent :
 
 ### 1.13 Fonction de Grundy et noyau d'un graphe acyclique ([`noyau-graphe.ipynb`](./python/noyau/noyau-graphe.ipynb))
 
-Application à quelques [jeux impartiaux](https://fr.wikipedia.org/wiki/Jeu_impartial) sans partie nulle.
+Application à quelques [jeux impartiaux](https://fr.wikipedia.org/wiki/Jeu_impartial) sans partie nulle : blackjack mathématique, Nim, Marienbad, Wythoff et Euclide.
 
 ## 2 Programmation par contraintes avec Python
 
