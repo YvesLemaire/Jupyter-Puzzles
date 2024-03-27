@@ -31,6 +31,8 @@ Utilisation de l'[Algorithme A*](./python/outils/parcours.ipynb) pour trouver un
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ![microcosmos31](./python/sokoban/images/microcosmos31.png)
 
+[sk](https://drive.google.com/file/d/1dsa6AR1r6j32kLE5NSXZDDTLe1daorA4/view?usp=sharing)
+
 ### 1.5 8-puzzle ([`8-puzzle.ipynb`](./python/8-puzzle/8-puzzle.ipynb))
 
 Utilisation de l'[Algorithme A*](./python/outils/parcours.ipynb) pour trouver une solution optimale (nombre minimum de déplacements) d'une version simplifiée (8 pièces au lieu de 15) du [15-puzzle](https://fr.wikipedia.org/wiki/Taquin)
