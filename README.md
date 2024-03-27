@@ -77,7 +77,7 @@ Calcul des solutions d'un cube serpent :
 
 Application à quelques [jeux impartiaux](https://fr.wikipedia.org/wiki/Jeu_impartial) sans partie nulle : blackjack mathématique, Nim, Marienbad, Wythoff et Euclide.
 
-## 2 Programmation par contraintes avec Python
+## 2 Programmation par contraintes
 
 [Programmation par contraintes, Louis-Martin Rousseau et Gilles Pesant](https://www.tofgarion.net/lectures/XX201/choco/PPC.pdf) constitue une bonne introduction aux algorithmes utilisés en PPC (Programmation Par Contraintes) par les solveurs disponibles dans Python, comme [OR-Tools](https://developers.google.com/optimization/introduction/python?hl=fr), le solveur de Google .
 
