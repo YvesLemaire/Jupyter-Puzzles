@@ -21,7 +21,7 @@ Fournit trois fonctions python utilisées par d'autres notebooks
 
 ### 1.3 [Solitaire](https://fr.wikipedia.org/wiki/Solitaire_(casse-t%C3%AAte)) ([`solitaire.ipynb`](./python/solitaire/solitaire.ipynb)) 
 
-Utilisation du [parcours en profondeur](./python/outils/parcours.ipynb) d'un graphe pour la résolution de solitaires, par exemple anglais, français ou allemand :
+Utilisation du [parcours en profondeur](./python/outils/parcours.ipynb) d'un graphe pour la [résolution de solitaires](./python/solitaire/images/french.png), par exemple anglais, français ou allemand :
 
 ![anglais](./python/solitaire/images/anglais.png) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![français](./python/solitaire/images/francais.png) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![allemand](./python/solitaire/images/allemand.png) 
 
@@ -35,11 +35,11 @@ Utilisation de l'[Algorithme A*](./python/outils/parcours.ipynb) pour trouver un
 
 ### 1.5 8-puzzle ([`8-puzzle.ipynb`](./python/8-puzzle/8-puzzle.ipynb))
 
-Utilisation de l'[Algorithme A*](./python/outils/parcours.ipynb) pour trouver une solution optimale (nombre minimum de déplacements) d'une version simplifiée (8 pièces au lieu de 15) du [15-puzzle](https://fr.wikipedia.org/wiki/Taquin)
+Utilisation de l'[Algorithme A*](./python/outils/parcours.ipynb) pour trouver une [solution optimale](./python/8-puzzle/images/test.png) (nombre minimum de déplacements) d'une version simplifiée (8 pièces au lieu de 15) du [15-puzzle](https://fr.wikipedia.org/wiki/Taquin)
 
 ### 1.6 [Rush Hour](https://en.wikipedia.org/wiki/Rush_Hour_(puzzle)) ([`rush-hour.ipynb`](./python/rush-hour/rush-hour.ipynb))
 
-Utilisation de l'[Algorithme A*](./python/outils/parcours.ipynb) pour trouver une solution optimale du jeu
+Utilisation de l'[Algorithme A*](./python/outils/parcours.ipynb) pour trouver une [solution optimale](./python/rush-hour/images/jeu1.png)
 
 ![jeu1-0](./python/rush-hour/images/jeu1-0.png)
 
@@ -115,7 +115,7 @@ Génération d'une suite d'[explications pas à pas](./python/programmationContr
 
 ### [Sudoku](https://fr.wikipedia.org/wiki/Sudoku) ([`sudoku.ipynb`](./python/programmationContraintes/cpmpy/explications/sudoku/sudoku.ipynb))
 
-Production d'une suite d'images expliquant la résolution case après case d'une grille de sudoku :
+Production d'une [suite d'images](./python/programmationContraintes/cpmpy/explications/sudoku/images/given_9x9.png) expliquant la résolution case après case d'une grille de sudoku :
 
 ![résolution case après case](./python/programmationContraintes/cpmpy/explications/sudoku/images/given_9x9-0.png) 
 
@@ -123,7 +123,7 @@ Production d'une suite d'images expliquant la résolution case après case d'une
 
 Il s'agit du [Puzzle Démineur](https://www.janko.at/Raetsel/Minesweeper) et pas du jeu vidéo.
 
-Production d'une suite d'images expliquant la résolution case après case  d'une grille de démineur : 
+Production d'une [suite d'images](./python/programmationContraintes/cpmpy/explications/demineur/images/given8.png) expliquant la résolution case après case  d'une grille de démineur : 
 
 ![résolution case après case](./python/programmationContraintes/cpmpy/explications/demineur/images/given_sample-0.png)
 
