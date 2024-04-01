@@ -15,7 +15,7 @@ for u in range(-3,3):
 for i in range(-2,3):
     for j in range(-2,3):
         ax.plot(i,j, color = 'black', marker = 'o', markersize = '2')
-        ax.text(i, j - .2, f'$({i},{j})$', fontsize = 8, color = 'black', verticalalignment = 'top', horizontalalignment = 'center')
+        ax.text(i, j - .2, f'${i},{j}$', fontsize = 11, color = 'black', verticalalignment = 'top', horizontalalignment = 'center')
 
 
 plt.savefig('grille.png')
