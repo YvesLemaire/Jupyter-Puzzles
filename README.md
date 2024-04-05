@@ -161,7 +161,7 @@ Puzzles de polyhexs :
 #### [`puzzles-triangles.ipynb`](./sage/couvertureExacte/puzzles-2D/puzzles-triangles/puzzles-triangles.ipynb)
 Puzzles de polyiamonds : 
 
-![puzzles de polyiamonds](./sage/couvertureExacte/puzzles-2D/puzzles-triangles/puzzle.png)
+![puzzles de polyiamonds](./sage/couvertureExacte/puzzles-2D/puzzles-triangles/puzzle.png) ![puzzles2 de polyiamonds](./sage/couvertureExacte/puzzles-2D/puzzles-triangles/puzzle2.png)
 
 #### [`puzzles-3D.ipynb`](./sage/couvertureExacte/puzzles-3D/puzzles-3D.ipynb)
 [Puzzles de polycubes](https://raw.githack.com/YvesLemaire/images/main/graphic-0.html) :
