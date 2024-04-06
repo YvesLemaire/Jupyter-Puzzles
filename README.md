@@ -157,7 +157,7 @@ Puzzles de polyominos :
 #### [`puzzles-hexagones.ipynb`](./sage/couvertureExacte/puzzles-2D/puzzles-hexagones/puzzles-hexagones.ipynb)
 Puzzles de polyhexs : 
 
-![puzzles de polyhexs](./sage/couvertureExacte/puzzles-2D/puzzles-hexagones/puzzle.png)
+![puzzles de polyhexs](./sage/couvertureExacte/puzzles-2D/puzzles-hexagones/puzzle.png) ![puzzles2 de polyhexs](./sage/couvertureExacte/puzzles-2D/puzzles-hexagones/puzzle2.png)
 #### [`puzzles-triangles.ipynb`](./sage/couvertureExacte/puzzles-2D/puzzles-triangles/puzzles-triangles.ipynb)
 Puzzles de polyiamonds : 
 
