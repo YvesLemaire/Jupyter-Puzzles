@@ -9,7 +9,7 @@ Si vous clonez tout ou partie du dépôt, veillez à respecter l'arborescence de
 - Si [Python](https://www.python.org), avec [jupyter](https://jupyter.org/install), est installé sur votre machine, utiliser la commande `jupyter notebook` dans un répertoire qui contient `xxx.ipynb` ou ouvrir le fichier dans [VScode](https://code.visualstudio.com/) ;
 - sinon, avec un compte Google, le plus simple est de téléverser les fichiers dans un sous répertoire de `Mon Drive/Colab Notebooks/` dans `Google Drive` et d'ouvrir `Mon Drive/Colab Notebooks/.../xxx.ipynb` dans un navigateur (partir de [Mon Drive](https://drive.google.com/drive/my-drive)). Noter que cela permet aussi de faire fonctionner Python sur un smartphone.  
 
-### 1.1 Permutations ([`permutations.pynb`](./python/permutations/permutations.ipynb))
+### 1.1 Permutations ([`permutations.ipynb`](./python/permutations/permutations.ipynb))
 
 Génération de toutes les permutations d'un ensemble (fini) par un joli algorithme et application à des petites énigmes.
 
