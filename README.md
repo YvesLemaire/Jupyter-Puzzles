@@ -49,13 +49,11 @@ Application de la notion de cycle hamiltonien d'un graphe à la résolution du p
 ### 1.8 [Nonograms](https://en.wikipedia.org/wiki/Nonogram) ([`nonogram.ipynb`](./python/nonogram/nonogram.ipynb))
 Résolution de nonograms pas trop compliqués et génération d'une suite d'images expliquant cette résolution pas à pas.
 
-Par exemple
+Un exemple simple :
 
 ![tinyWhale](./python/nonogram/tinyWhale.png)
 
-et
-
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![MarylinMonroe](./python/nonogram/MarylinMonroe.png)
+et [un autre plus compliqué.](./python/nonogram/MarylinMonroe.png)
 
 ### 1.9 [Automates](https://fr.wikipedia.org/wiki/Th%C3%A9orie_des_automates) ([`automates.ipynb`](./python/automates/automates.ipynb))
 Applications de la théorie des automates à la résolution de problèmes [de bouteilles](https://www.prise2tete.fr/forum/viewtopic.php?id=5151) et de [de passage de rivière](https://fr.wikipedia.org/wiki/Probl%C3%A8mes_de_passage_de_rivi%C3%A8re), ainsi que de l'énigme dite des 4 jetons ou du barman aveugle.
