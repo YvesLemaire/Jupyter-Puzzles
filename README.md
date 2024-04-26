@@ -46,7 +46,7 @@ Application de la notion de cycle hamiltonien d'un graphe à la résolution du p
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ![résolution du problème du cavalier](./python/cavalier/cavalier.png)
 
-### 1.8 [Nonograms]((https://en.wikipedia.org/wiki/Nonogram) ([`nonogram.ipynb`](./python/nonogram/nonogram.ipynb))
+### 1.8 [Nonograms](https://en.wikipedia.org/wiki/Nonogram) ([`nonogram.ipynb`](./python/nonogram/nonogram.ipynb))
 Résolution de nonograms pas trop compliqués et génération d'une suite d'images expliquant la résolution.
 
 
