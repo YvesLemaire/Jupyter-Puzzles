@@ -126,13 +126,17 @@ Production d'une [suite d'images](./python/programmationContraintes/cpmpy/explic
 
 ![résolution case après case](./python/programmationContraintes/cpmpy/explications/sudoku/images/given_9x9-0.png) 
 
-### Démineur ([`demineur.ipynb`](./python/programmationContraintes/cpmpy/explications/demineur/demineur.ipynb))
+### # [Mosaïque](https://www.janko.at/Raetsel/Mosaik/index.htm) et [Démineur](https://www.janko.at/Raetsel/Minesweeper/) ([`mosaic.ipynb`](./python/programmationContraintes/cpmpy/explications/demineur/mosaic.ipynb))
 
-Il s'agit du [Puzzle Démineur](https://www.janko.at/Raetsel/Minesweeper) et pas du jeu vidéo.
+Production d'une [suite d'images](./python/programmationContraintes/cpmpy/explications/demineur/images/d8.png) expliquant la résolution pas à pas  d'une grille de mosaïque ou de démineur : 
 
-Production d'une [suite d'images](./python/programmationContraintes/cpmpy/explications/demineur/images/given8.png) expliquant la résolution case après case  d'une grille de démineur : 
+![g5](./python/programmationContraintes/cpmpy/explications/demineur/g5.png)
+![g5indic](./python/programmationContraintes/cpmpy/explications/demineur/g5indic.png)
+![g5sol](./python/programmationContraintes/cpmpy/explications/demineur/g5sol.png)
 
-![résolution case après case](./python/programmationContraintes/cpmpy/explications/demineur/images/given_sample-0.png)
+![d6](./python/programmationContraintes/cpmpy/explications/demineur/d6.png)
+![d6indic](./python/programmationContraintes/cpmpy/explications/demineur/d6indic.png)
+![d6sol](./python/programmationContraintes/cpmpy/explications/demineur/d6sol.png)
 
 ## 3 Sage
 
