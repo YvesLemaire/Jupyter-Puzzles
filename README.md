@@ -128,14 +128,18 @@ Production d'une [suite d'images](./python/programmationContraintes/cpmpy/explic
 
 ### # [Mosaïque](https://www.janko.at/Raetsel/Mosaik/index.htm) et [Démineur](https://www.janko.at/Raetsel/Minesweeper/) ([`mosaic.ipynb`](./python/programmationContraintes/cpmpy/explications/demineur/mosaic.ipynb))
 
-Production d'une [suite d'images](./python/programmationContraintes/cpmpy/explications/demineur/images/d8.png) expliquant la résolution pas à pas  d'une grille de mosaïque ou de démineur : 
+Production d'une [suite d'images](./python/programmationContraintes/cpmpy/explications/demineur/d8.png) expliquant la résolution pas à pas  d'une grille de mosaïque ou de démineur : 
+
+Mosaïque :
 
 ![g5](./python/programmationContraintes/cpmpy/explications/demineur/g5.png)
-![g5indic](./python/programmationContraintes/cpmpy/explications/demineur/g5indic.png)
+![g5indic](./python/programmationContraintes/cpmpy/explications/demineur/g5indic.png) ...
 ![g5sol](./python/programmationContraintes/cpmpy/explications/demineur/g5sol.png)
 
+Démineur :
+
 ![d6](./python/programmationContraintes/cpmpy/explications/demineur/d6.png)
-![d6indic](./python/programmationContraintes/cpmpy/explications/demineur/d6indic.png)
+![d6indic](./python/programmationContraintes/cpmpy/explications/demineur/d6indic.png) ...
 ![d6sol](./python/programmationContraintes/cpmpy/explications/demineur/d6sol.png)
 
 ## 3 Sage
