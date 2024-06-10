@@ -7,7 +7,7 @@ Si vous clonez tout ou partie du dépôt, veillez à respecter l'arborescence de
 ### Utilisation d'un noteboook jupyter `xxx.ipynb` avec un noyau [Python](https://www.python.org/)
 
 - Si [Python](https://www.python.org), avec [jupyter](https://jupyter.org/install), est installé sur votre machine, utiliser la commande `jupyter notebook` dans un répertoire qui contient `xxx.ipynb` ou ouvrir le fichier dans [VScode](https://code.visualstudio.com/) ;
-- sinon, avec un compte Google, le plus simple est de téléverser les fichiers dans un sous répertoire de `[Mon Drive](https://drive.google.com/drive/my-drive)/Colab Notebooks/` dans `Google Drive` et d'ouvrir `Mon Drive/Colab Notebooks/.../xxx.ipynb` dans un navigateur. Noter que cela permet aussi de faire fonctionner Python sur un smartphone.  
+- sinon, avec un compte Google, le plus simple est de téléverser les fichiers dans un sous répertoire de [`Mon Drive`](https://drive.google.com/drive/my-drive)`/Colab Notebooks/` dans `Google Drive` et d'ouvrir `Mon Drive/Colab Notebooks/.../xxx.ipynb` dans un navigateur. Noter que cela permet aussi de faire fonctionner Python sur un smartphone.  
 
 ### 1.1 Permutations ([`permutations.ipynb`](./python/permutations/permutations.ipynb))
 
