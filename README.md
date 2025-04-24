@@ -86,6 +86,12 @@ Calcul des solutions d'un cube serpent :
 
 Application à quelques [jeux impartiaux](https://fr.wikipedia.org/wiki/Jeu_impartial) sans partie nulle : blackjack mathématique, Nim, Marienbad, Wythoff et Euclide.
 
+### 1.15 Sudoku ([`sudoku.ipynb`](./python/sudoku/sudoku.ipynb))
+
+Production d'une suite d'images expliquant la résolution case après case d'une grille de sudoku.
+
+![single-position](./python/sudoku/images/documentation/single-position-2.png) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![jellyfish](./python/sudoku/images/documentation/jellyfish.png) 
+
 ## 2 Programmation par contraintes
 
 [Programmation par contraintes, Louis-Martin Rousseau et Gilles Pesant](https://www.tofgarion.net/lectures/XX201/choco/PPC.pdf) constitue une bonne introduction aux algorithmes utilisés en PPC (Programmation Par Contraintes) par les solveurs disponibles dans Python, comme [OR-Tools](https://developers.google.com/optimization/introduction/python?hl=fr), le solveur de Google .
@@ -122,9 +128,10 @@ Génération d'une suite d'[explications pas à pas](./python/programmationContr
 
 ### [Sudoku](https://fr.wikipedia.org/wiki/Sudoku) ([`sudoku.ipynb`](./python/programmationContraintes/cpmpy/explications/sudoku/sudoku.ipynb))
 
-Production d'une [suite d'images](./python/programmationContraintes/cpmpy/explications/sudoku/images/given_9x9.png) expliquant la résolution case après case d'une grille de sudoku :
+Production d'une [suite d'images](./python/programmationContraintes/cpmpy/explications/sudoku/images/given_9x9.png) expliquant la résolution case après case d'une grille de sudoku 
+de niveau très facile.
 
-![résolution case après case](./python/programmationContraintes/cpmpy/explications/sudoku/images/given_9x9-0.png) 
+Voir plutôt ([`sudoku.ipynb`](./python/sudoku/sudoku.ipynb))
 
 ### [Mosaïque](https://www.janko.at/Raetsel/Mosaik/index.htm) et [Démineur](https://www.janko.at/Raetsel/Minesweeper/) ([`mosaic.ipynb`](./python/programmationContraintes/cpmpy/explications/demineur/mosaic.ipynb))
 
