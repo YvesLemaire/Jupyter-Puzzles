@@ -88,7 +88,7 @@ Application à quelques [jeux impartiaux](https://fr.wikipedia.org/wiki/Jeu_impa
 
 ### 1.15 Sudoku ([`sudoku.ipynb`](./python/sudoku/sudoku.ipynb))
 
-Production d'une  [suite d'images](./python/sudoku/images/explanations.png)  expliquant la résolution case après case d'une grille de sudoku.
+Production d'une  [suite d'images](./python/sudoku/images/EXPLANATIONS.png)  expliquant la résolution case après case d'une grille de sudoku.
 
 ![single-position](./python/sudoku/images/documentation/single-position-2.png)  ![jellyfish](./python/sudoku/images/documentation/jellyfish.png) 
 
