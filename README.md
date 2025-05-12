@@ -129,9 +129,7 @@ Génération d'une suite d'[explications pas à pas](./python/programmationContr
 ### [Sudoku](https://fr.wikipedia.org/wiki/Sudoku) ([`sudoku.ipynb`](./python/programmationContraintes/cpmpy/explications/sudoku/sudoku.ipynb))
 
 Production d'une [suite d'images](./python/programmationContraintes/cpmpy/explications/sudoku/images/given_9x9.png) expliquant la résolution case après case d'une grille de sudoku 
-de niveau très facile.
-
-Voir plutôt ([`sudoku.ipynb`](./python/sudoku/sudoku.ipynb))
+DE NIVEAU TRES FACILE (voir plutôt ([`sudoku.ipynb`](./python/sudoku/sudoku.ipynb)))
 
 ### [Mosaïque](https://www.janko.at/Raetsel/Mosaik/index.htm) et [Démineur](https://www.janko.at/Raetsel/Minesweeper/) ([`mosaic.ipynb`](./python/programmationContraintes/cpmpy/explications/demineur/mosaic.ipynb))
 
