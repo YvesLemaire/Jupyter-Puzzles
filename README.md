@@ -82,9 +82,11 @@ Calcul des solutions d'un cube serpent :
 
 ![Cube-Serpent](./python/snakecube/cobra-bleu-dev.png) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![solutions](./python/snakecube/cobra-bleu.png)
 
-### 1.14 Fonction de Grundy et noyau d'un graphe acyclique ([`noyau-graphe.ipynb`](./python/noyau/noyau-graphe.ipynb))
+### 1.14  [jeux impartiaux](https://fr.wikipedia.org/wiki/Jeu_impartial) ([`jeux-impartiaux.ipynb`](./python/jeux-impartiaux/jeux-impartiaux.ipynb))
 
-Application à quelques [jeux impartiaux](https://fr.wikipedia.org/wiki/Jeu_impartial) sans partie nulle : blackjack mathématique, Nim, Marienbad, Wythoff et Euclide.
+Application à quelques jeux : blackjack mathématique, Nim, Marienbad, Wythoff, Euclide, retournements de pièces unidimentionnels et bidimentionnels.
+
+Etude complète de [Green Hackenbush]()
 
 ### 1.15 Sudoku ([`sudoku.ipynb`](./python/sudoku/sudoku.ipynb))
 
