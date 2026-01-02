@@ -86,7 +86,9 @@ Calcul des solutions d'un cube serpent :
 
 Application à quelques jeux : blackjack mathématique, Nim, Marienbad, Wythoff, Euclide, retournements de pièces unidimentionnels et bidimentionnels.
 
-Etude complète de [Green Hackenbush]()
+Etude complète de [Green Hackenbush](./python/jeux-impartiaux/hackenbush.ipynb)
+
+![theHackenbushEstate](./python/jeux-impartiaux/images/theHackenbushEstateWithStresses.png)
 
 ### 1.15 Sudoku ([`sudoku.ipynb`](./python/sudoku/sudoku.ipynb))
 
