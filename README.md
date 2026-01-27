@@ -86,11 +86,17 @@ Calcul des solutions d'un cube serpent :
 
 Application à quelques jeux : blackjack mathématique, Nim, Marienbad, Wythoff, Euclide, retournements de pièces unidimentionnels et bidimentionnels.
 
-Etude du jeu [Hackenbush originel](https://fr.wikipedia.org/wiki/Hackenbush) : [`hackenbush.ipynb`](./python/jeux-impartiaux/hackenbush.ipynb)
+Etude de [Green Hackenbush](https://fr.wikipedia.org/wiki/Hackenbush) : [`hackenbush.ipynb`](./python/jeux-impartiaux/hackenbush.ipynb)
 
 ![theHackenbushEstate](./python/jeux-impartiaux/images/theHackenbushEstateWithStresses.png)
 
-### 1.15 Sudoku ([`sudoku.ipynb`](./python/sudoku/sudoku.ipynb))
+### 1.15  [jeux partisans](https://fr.wikipedia.org/wiki/Jeu_partisan)
+
+Etude de [Red-Blue Hackenbush](https://fr.wikipedia.org/wiki/Hackenbush) : [`RBhackenbush.ipynb`](./python/jeux-partisans/RBhackenbush.ipynb)
+
+![hack](./python/jeux-partisans/images/hack.png)
+
+### 1.16 Sudoku ([`sudoku.ipynb`](./python/sudoku/sudoku.ipynb))
 
 Production d'une  [suite d'images](./python/sudoku/images/EXPLANATIONS.png)  expliquant la résolution case après case d'une grille de sudoku.
 
